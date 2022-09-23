@@ -1,0 +1,62 @@
+*,body{
+    margin: 0;
+    padding: 0;
+}
+div.container{
+    width:800px;
+}
+
+div.header{
+    height: 100px;
+    padding-top: 50px;
+    text-align: center;
+    background: linear-gradient(rgb(218, 131, 178),rgb(109, 149, 182));
+}
+
+div.menu{
+width: 200px;
+float: left;
+}
+
+div.menu ul{
+    margin:0 ;
+    padding: 0;
+    list-style: none;
+}
+
+div.menu ul li{
+    display:block;
+    padding: 15px 10px;
+    background: liner-gradient(yellow, green 50%)
+    color: #fff;
+    float: left;
+    width: 170px;
+}
+
+div.menu ul li:hover{
+    font-weight: bold;
+    background: liner-gradient(green, white 50%)
+
+
+
+}
+
+
+
+
+
+div.content{
+    width: 600px;
+    float:left;
+}
+
+siv.clear{
+    clear: both;
+}
+
+div.foote{
+    height: 100px;
+    padding-top: 50px;
+    text-align: center;
+    background: linear-gradient(rgb(218, 131, 178),rgb(109, 149, 182));
+}

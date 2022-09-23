@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>My home page</title>
+        <body>
+            <h1>My name is <em><u>Anahi</u></em></h1>
+           <h2>My major is <em>Student</em></h2>
+           <p>I am creating this page for <a>TI32BIS</a> and will <br>be modifiying this page throughout the <br>course.</p>
+           <p><u>Please</u> visit again!</p>
+
+           <nav>
+            <a href="html2.html" id=""btn1" class=""btnSend">Exercise 2</a>
+            <br>
+            <a href="html3.html" id=""btn2" class=""btnSend">Exercise 3</a>
+            </a>
+           </nav>
+        </body>
+    </head>
+</html>
